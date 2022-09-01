@@ -35,7 +35,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/saibdev/saibdev/blob/output/snake.svg" alt="Snake animation" />
 
-###SNAKE EAT GRAPH
+##SNAKE EAT GRAPH
+
 ![snake gif](https://github.com/saibdev/saibdev/blob/output/github-contribution-grid-snake.gif)
