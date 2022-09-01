@@ -1,6 +1,5 @@
 [![MasterHead](https://i.ibb.co/j3mvxvw/final-63108ecd6dfb9800783995eb-677288-1-min.gif)](https://github.com/saibdev)
-<h1 align="center">Hi 👋, I'm Saib dev</h1>
-<h3 align="center">A passionate Android & iOS app developer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&size=40&pause=1000&color=F75715&center=true&vCenter=true&width=1080&lines=Hi+%F0%9F%91%8B%2C+I'm+Saib+dev;Frontend+%26+Backend+Developer;Android+%26+iOS+Developer)](https://git.io/typing-svg)
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/7SvE.gif">
 
 <h3 align="left">Connect with me:</h3>
