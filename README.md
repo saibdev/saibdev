@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&size=70&pause=1000&color=F75715&center=true&vCenter=true&width=1080&height=300&lines=Hi+%F0%9F%91%8B%2C+I'm+Saib+dev;Frontend+%26+Backend+Developer;Android+%26+iOS+Developer)](https://git.io/typing-svg)
-[![MasterHead](https://i.ibb.co/rZXrWFP/final-630e0fb2579a0c0058d906d0-139088.gif)](https://github.com/saibdev)
+[![MasterHead](https://i.ibb.co/Kqr1DXf/final-63108ecd6dfb9800783995eb-677288.gif)](https://github.com/saibdev)
 <h1 align="center">Hi 👋, I'm Saib dev</h1>
 <h3 align="center">A passionate Android & iOS app developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/7SvE.gif">
